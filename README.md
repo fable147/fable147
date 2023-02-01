@@ -7,6 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .NET CORE 
+- :metal: I'm also intersted in Image Proceesing, Data analysis,ANN and other AI subjects
 - 🌱 I’m currently learning Microservices,Rabbit MQ, Mass Transit...
 - :question: Ask me about .NET Framework MVC,CSS,HTML,CQRS Pattern
 - an individual who makes it a habit to learn something every day.
