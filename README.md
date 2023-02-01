@@ -4,7 +4,6 @@
 <!--
 **fable147/fable147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .NET CORE 
 - :metal: I'm also intersted in Image Proceesing, Data analysis,ANN and other AI subjects
